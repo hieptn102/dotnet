@@ -1,0 +1,16 @@
+D:\workspace\dotnet\dotnet\bt14\obj\Debug\net5.0\bt14.csproj.AssemblyReference.cache
+D:\workspace\dotnet\dotnet\bt14\obj\Debug\net5.0\bt14.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dotnet\dotnet\bt14\obj\Debug\net5.0\bt14.AssemblyInfoInputs.cache
+D:\workspace\dotnet\dotnet\bt14\obj\Debug\net5.0\bt14.AssemblyInfo.cs
+D:\workspace\dotnet\dotnet\bt14\obj\Debug\net5.0\bt14.csproj.CoreCompileInputs.cache
+D:\workspace\dotnet\dotnet\bt14\bin\Debug\net5.0\bt14.exe
+D:\workspace\dotnet\dotnet\bt14\bin\Debug\net5.0\bt14.deps.json
+D:\workspace\dotnet\dotnet\bt14\bin\Debug\net5.0\bt14.runtimeconfig.json
+D:\workspace\dotnet\dotnet\bt14\bin\Debug\net5.0\bt14.runtimeconfig.dev.json
+D:\workspace\dotnet\dotnet\bt14\bin\Debug\net5.0\bt14.dll
+D:\workspace\dotnet\dotnet\bt14\bin\Debug\net5.0\bt14.pdb
+D:\workspace\dotnet\dotnet\bt14\obj\Debug\net5.0\bt14.dll
+D:\workspace\dotnet\dotnet\bt14\obj\Debug\net5.0\refint\bt14.dll
+D:\workspace\dotnet\dotnet\bt14\obj\Debug\net5.0\bt14.pdb
+D:\workspace\dotnet\dotnet\bt14\obj\Debug\net5.0\bt14.genruntimeconfig.cache
+D:\workspace\dotnet\dotnet\bt14\obj\Debug\net5.0\ref\bt14.dll

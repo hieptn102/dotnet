@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KKj/b4uQ/Oq6OuxF7KweGbN1BbhjJtR1mmfrIIDPIcF/XuXJ+E3qTuN//ksQnNx9tqROGiASdVCTEMG0/RIAWQ==",
+  "dgSpecHash": "v6reaS3GyBIe1iqCgJYyOUiiW6AmmqxHrnOL/4DO3ej/6vwzAr4Q0XaiwxtlsTiCDOPXyAny70lE/Jq3oA+VOQ==",
   "success": true,
-  "projectFilePath": "D:\\Workspace\\Monstarlab\\dotnet\\dotnetBasic\\bt1\\bt1.csproj",
+  "projectFilePath": "D:\\workspace\\dotnet\\dotnet\\bt1\\bt1.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

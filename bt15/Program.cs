@@ -25,7 +25,7 @@ namespace bt15
         }
         static int checkmsv(string msv)
         {
-            if (Regex.IsMatch(msv,"00\\d{4}"))
+            if (Regex.IsMatch(msv,"00[2-5]L\\d{4}"))
                 return 0;
             else
                 return 1;

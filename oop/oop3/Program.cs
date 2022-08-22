@@ -23,6 +23,9 @@ namespace oop3
             int cdigit = Convert.ToInt32(Console.ReadLine());
             switch (cdigit)
             {
+                case 0:
+                    Console.Write("Bạn đã thoát chương trình!!!\n");
+                    return;
                 case 1:
                     Console.WriteLine("\n1. Them sinh vien.");
                     aa.add();
@@ -94,7 +97,7 @@ namespace oop3
                 default:
                     Console.Write("Bạn đã thoát chương trình!!!\n");
                     break;
-            }        
+            }  
             }
         }
     }

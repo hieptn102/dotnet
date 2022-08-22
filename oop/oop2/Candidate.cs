@@ -1,39 +1,61 @@
 using System;
-
+using System.Collections.Generic;
 namespace oop2
-{
-    class Candidate
-    {
-        public string ma { set; get; }
-        public string hoten { set; get; }
-        public string ngaythang { set; get; }
-        public double van { set; get; }
-        public double toan { set; get; }
-        public double anh { set; get; }
-        public void nhapthongtin(int i){
+{ 
+    class Candidate{
+       public string ma { set; get; }
+       public string hoten { set; get; }
+       public string ngaythang { set; get; }
+       public double van { set; get; }
+       public double toan { set; get; }
+       public double anh { set; get; }
+    }
+    class xuly{
+        private List<Candidate> students = null;
+ 
+        public xuly() {
+            students = new List<Candidate>();
+        }
+       public void nhaptt(int i){
+        Candidate st = new Candidate();
         Console.WriteLine($"nhập mã sv{i+=1} ");
-        this.ma = Console.ReadLine();
+        st.ma = Console.ReadLine();
 
         Console.WriteLine("nhập họ tên sv ");
-        this.hoten = Console.ReadLine();
+        st.hoten = Console.ReadLine();
 
         Console.WriteLine("nhập ngày sinh sv ");
-        this.ngaythang = Console.ReadLine();
+        st.ngaythang = Console.ReadLine();
 
         Console.WriteLine("nhập điểm văn ");
-        this.van =Convert.ToDouble(Console.ReadLine());
+        st.van =Convert.ToDouble(Console.ReadLine());
 
         Console.WriteLine("nhập điểm toán ");
-        this.toan =Convert.ToDouble(Console.ReadLine());
+        st.toan =Convert.ToDouble(Console.ReadLine());
 
         Console.WriteLine("nhập điểm anh ");
-        this.anh =Convert.ToDouble(Console.ReadLine());
+        st.anh =Convert.ToDouble(Console.ReadLine());
+        students.Add(st);
+
+    }
+        public void tongdiem(List<Candidate> student){
+            double tong = 0;
+            Console.WriteLine("{0, -5} {1, -20} {2, -5}",
+                  "Ma", "Name", "Ngaysinh");
+            foreach (Candidate sv in student)
+            {
+               tong = sv.van + sv.anh + sv.toan;
+               if(tong>0){
+                Console.WriteLine("{0, -5} {1, -20} {2, -5}",
+                sv.ma, sv.hoten, sv.ngaythang);
+               }
+            }
 
        }
-       public double tongdiem(){
-          double tong = 0 ;
-          tong = this.van + this.toan + this.anh;
-           return tong;
-       }
+      public List<Candidate> getStudent()
+        {
+            return students;
+        }
+
     }
 }

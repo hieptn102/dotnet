@@ -1,0 +1,16 @@
+D:\workspace\dotnet\dotnet\oop\oop3\bin\Debug\net5.0\oop3.exe
+D:\workspace\dotnet\dotnet\oop\oop3\bin\Debug\net5.0\oop3.deps.json
+D:\workspace\dotnet\dotnet\oop\oop3\bin\Debug\net5.0\oop3.runtimeconfig.json
+D:\workspace\dotnet\dotnet\oop\oop3\bin\Debug\net5.0\oop3.runtimeconfig.dev.json
+D:\workspace\dotnet\dotnet\oop\oop3\bin\Debug\net5.0\oop3.dll
+D:\workspace\dotnet\dotnet\oop\oop3\bin\Debug\net5.0\oop3.pdb
+D:\workspace\dotnet\dotnet\oop\oop3\obj\Debug\net5.0\oop3.csproj.AssemblyReference.cache
+D:\workspace\dotnet\dotnet\oop\oop3\obj\Debug\net5.0\oop3.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dotnet\dotnet\oop\oop3\obj\Debug\net5.0\oop3.AssemblyInfoInputs.cache
+D:\workspace\dotnet\dotnet\oop\oop3\obj\Debug\net5.0\oop3.AssemblyInfo.cs
+D:\workspace\dotnet\dotnet\oop\oop3\obj\Debug\net5.0\oop3.csproj.CoreCompileInputs.cache
+D:\workspace\dotnet\dotnet\oop\oop3\obj\Debug\net5.0\oop3.dll
+D:\workspace\dotnet\dotnet\oop\oop3\obj\Debug\net5.0\refint\oop3.dll
+D:\workspace\dotnet\dotnet\oop\oop3\obj\Debug\net5.0\oop3.pdb
+D:\workspace\dotnet\dotnet\oop\oop3\obj\Debug\net5.0\oop3.genruntimeconfig.cache
+D:\workspace\dotnet\dotnet\oop\oop3\obj\Debug\net5.0\ref\oop3.dll

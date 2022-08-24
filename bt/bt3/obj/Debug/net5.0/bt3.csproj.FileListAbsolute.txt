@@ -1,0 +1,16 @@
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\bin\Debug\net5.0\bt3.exe
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\bin\Debug\net5.0\bt3.deps.json
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\bin\Debug\net5.0\bt3.runtimeconfig.json
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\bin\Debug\net5.0\bt3.runtimeconfig.dev.json
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\bin\Debug\net5.0\bt3.dll
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\bin\Debug\net5.0\bt3.pdb
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\obj\Debug\net5.0\bt3.csproj.AssemblyReference.cache
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\obj\Debug\net5.0\bt3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\obj\Debug\net5.0\bt3.AssemblyInfoInputs.cache
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\obj\Debug\net5.0\bt3.AssemblyInfo.cs
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\obj\Debug\net5.0\bt3.csproj.CoreCompileInputs.cache
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\obj\Debug\net5.0\bt3.dll
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\obj\Debug\net5.0\refint\bt3.dll
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\obj\Debug\net5.0\bt3.pdb
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\obj\Debug\net5.0\bt3.genruntimeconfig.cache
+D:\Workspace\Monstarlab\dotnet\dotnetBasic\bt3\obj\Debug\net5.0\ref\bt3.dll

@@ -1,0 +1,16 @@
+D:\workspace\dotnet\dotnet\bt17\bin\Debug\net5.0\bt17.exe
+D:\workspace\dotnet\dotnet\bt17\bin\Debug\net5.0\bt17.deps.json
+D:\workspace\dotnet\dotnet\bt17\bin\Debug\net5.0\bt17.runtimeconfig.json
+D:\workspace\dotnet\dotnet\bt17\bin\Debug\net5.0\bt17.runtimeconfig.dev.json
+D:\workspace\dotnet\dotnet\bt17\bin\Debug\net5.0\bt17.dll
+D:\workspace\dotnet\dotnet\bt17\bin\Debug\net5.0\bt17.pdb
+D:\workspace\dotnet\dotnet\bt17\obj\Debug\net5.0\bt17.csproj.AssemblyReference.cache
+D:\workspace\dotnet\dotnet\bt17\obj\Debug\net5.0\bt17.GeneratedMSBuildEditorConfig.editorconfig
+D:\workspace\dotnet\dotnet\bt17\obj\Debug\net5.0\bt17.AssemblyInfoInputs.cache
+D:\workspace\dotnet\dotnet\bt17\obj\Debug\net5.0\bt17.AssemblyInfo.cs
+D:\workspace\dotnet\dotnet\bt17\obj\Debug\net5.0\bt17.csproj.CoreCompileInputs.cache
+D:\workspace\dotnet\dotnet\bt17\obj\Debug\net5.0\bt17.dll
+D:\workspace\dotnet\dotnet\bt17\obj\Debug\net5.0\refint\bt17.dll
+D:\workspace\dotnet\dotnet\bt17\obj\Debug\net5.0\bt17.pdb
+D:\workspace\dotnet\dotnet\bt17\obj\Debug\net5.0\bt17.genruntimeconfig.cache
+D:\workspace\dotnet\dotnet\bt17\obj\Debug\net5.0\ref\bt17.dll
